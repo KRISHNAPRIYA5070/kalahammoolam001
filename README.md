@@ -102,6 +102,8 @@ Browser (Frontend) <--> Node.js Proxy (Backend) <--> Anthropic Claude API
   - Final aesthetic polishing and layout adjustments.
   - Problem/Solution conceptualization.
 
+Project Demo:  https://drive.google.com/file/d/16V-4A86SSGa2delB6Rx_3Dqn1Dp2q0j1/view?usp=sharing
+
 ## Team Contributions
 - **KRISHNAPRIYA V S:** Frontend design, UI/UX implementation, and Backend Proxy setup.
 - **Member 2:** Documentation, Testing, and Prompt Engineering.
